@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Philippos Vassiliou
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning React with Node.js
+- 🌱 I’m currently learning Salesforce.
 - 📫 You can reach me at philippos.vassiliou@hotmail.com
 
 <!---
